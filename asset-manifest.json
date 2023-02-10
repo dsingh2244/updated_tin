@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/updated_tin/static/css/main.ab06cc9a.css",
-    "main.js": "/updated_tin/static/js/main.85f78fbf.js",
+    "main.js": "/updated_tin/static/js/main.b2b6b9a7.js",
     "static/media/bgimg.jpg": "/updated_tin/static/media/bgimg.30fb7e7a8322f37f92d9.jpg",
     "static/media/color-logo-tinder.png": "/updated_tin/static/media/color-logo-tinder.f323d8e6d6df40341283.png",
     "static/media/tinder_logo_white.jpeg": "/updated_tin/static/media/tinder_logo_white.2a7043195a41346a00a7.jpeg",
     "index.html": "/updated_tin/index.html",
     "main.ab06cc9a.css.map": "/updated_tin/static/css/main.ab06cc9a.css.map",
-    "main.85f78fbf.js.map": "/updated_tin/static/js/main.85f78fbf.js.map"
+    "main.b2b6b9a7.js.map": "/updated_tin/static/js/main.b2b6b9a7.js.map"
   },
   "entrypoints": [
     "static/css/main.ab06cc9a.css",
-    "static/js/main.85f78fbf.js"
+    "static/js/main.b2b6b9a7.js"
   ]
 }
