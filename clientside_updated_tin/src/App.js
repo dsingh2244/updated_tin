@@ -13,8 +13,8 @@ const App = () => {
         <BrowserRouter>
             <Routes>
                 <Route path="updated_tin/" element={<Home/>}/>
-                {authToken && <Route path="/dashboard" element={<Dashboard/>}/>}
-                {authToken && <Route path="/onboarding" element={<OnBoarding/>}/>}
+                {authToken && <Route path="updated_tin/dashboard" element={<Dashboard/>}/>}
+                {authToken && <Route path="updated_tin/onboarding" element={<OnBoarding/>}/>}
 
             </Routes>
         </BrowserRouter>

@@ -30,7 +30,7 @@ const OnBoarding = () => {
             const response = await axios.put('https://updatedtin.onrender.com/user', {formData})
             console.log(response)
             const success = response.status === 200
-            if (success) navigate('/dashboard')
+            if (success) navigate('/updated_tin/dashboard')
         } catch (err) {
             console.log(err)
         }
